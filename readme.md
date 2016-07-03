@@ -6,7 +6,7 @@
 # install dependencies
 npm install
 
-# npm start
+npm start
 ```
 
 ## Todo
@@ -15,3 +15,4 @@ npm install
 - Sign Up
 - Sign In
 - Post, update, delete data to/from server
+- Server-side rendering
