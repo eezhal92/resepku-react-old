@@ -1,0 +1,5 @@
+/node_modules
+/public/index.js
+/public/bundle.js
+server.bundle.js
+npm-debug.log
